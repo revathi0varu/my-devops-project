@@ -1,1 +1,14 @@
 
+{
+  "name": "devops-interview-app",
+  "version": "1.0.0",
+  "description": "A production-ready demo app for DevOps pipeline testing",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "pg": "^8.11.5"
+  }
+}
